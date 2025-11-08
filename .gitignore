@@ -1,0 +1,5 @@
+build/fastcsv
+FastCSV.app/
+*.o
+*.dSYM/
+.DS_Store

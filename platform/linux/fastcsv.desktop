@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=FastCSV
+Comment=Lightning-fast CSV viewer
+Exec=fastcsv %f
+Icon=fastcsv
+Terminal=false
+MimeType=text/csv;text/comma-separated-values;
+Categories=Office;Utility;
+StartupNotify=true
